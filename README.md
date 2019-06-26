@@ -6,8 +6,8 @@
 
 | 序号 | 题目&题解                                                    |
 | ---- | ------------------------------------------------------------ |
-| 1 - 数组    | [二维数组中的查找]() |
-| 2 - 字符串   | [替换空格]() |
+| 1 - 数组    | [二维数组中的查找](https://github.com/feichaiCoding/SwordToOffer/blob/eb29fb746b8709aabe66c454488686f261732793/CodeFile/1-%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E7%9A%84%E6%9F%A5%E6%89%BE.md) |
+| 2 - 字符串   | [替换空格](https://github.com/feichaiCoding/SwordToOffer/blob/eb29fb746b8709aabe66c454488686f261732793/CodeFile/2-%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md) |
 
 > GitHub：https://github.com/feichaiCoding
 
