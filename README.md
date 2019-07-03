@@ -22,6 +22,14 @@
 | 9 - 递归和循环   | [变态跳台阶](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/9-%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md) |
 | 10 - 递归和循环   | [矩形覆盖](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/10-%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md) |
 | 11 - 位运算   | [二进制数中1的个数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/11-%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md) |
-| 12 - 代码的完整性   | []() |
+| 12 - 代码的完整性   | [数值的整数次方](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/12-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md) |
+| 13 - 代码的完整性   | []() |
+| 14 - 代码的鲁棒性   | []() |
+| 15 - 代码的鲁棒性   | []() |
+| 16 - 代码的鲁棒性   | []() |
+| 17 - 代码的鲁棒性   | []() |
+
+
+
 > GitHub：https://github.com/feichaiCoding
 
