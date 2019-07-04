@@ -6,6 +6,7 @@
 
 #### 内容说明
 主要包括问题描述、问题分析、解题思路、代码实现、测试用例以及知识点回顾
+注：测试用例主要包括了一些边界条件、正常条件以及一些特殊值，并且里面的代码都是经过测试用例通过的，所以代码的正确性完全可以保证
 
 ## 汇总
 
@@ -23,8 +24,8 @@
 | 10 - 递归和循环   | [矩形覆盖](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/10-%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md) |
 | 11 - 位运算   | [二进制数中1的个数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/11-%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md) |
 | 12 - 代码的完整性   | [数值的整数次方](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/12-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md) |
-| 13 - 代码的完整性   | []() |
-| 14 - 代码的鲁棒性   | []() |
+| 13 - 代码的完整性   | [调整数组顺序使奇数位于偶数前面](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/13-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md) |
+| 14 - 代码的鲁棒性   | [链表中倒数第k个结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/14-%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md) |
 | 15 - 代码的鲁棒性   | []() |
 | 16 - 代码的鲁棒性   | []() |
 | 17 - 代码的鲁棒性   | []() |
