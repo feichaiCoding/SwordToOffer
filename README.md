@@ -26,8 +26,8 @@
 | 12 - 代码的完整性   | [数值的整数次方](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/12-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md) |
 | 13 - 代码的完整性   | [调整数组顺序使奇数位于偶数前面](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/13-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md) |
 | 14 - 代码的鲁棒性   | [链表中倒数第k个结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/14-%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md) |
-| 15 - 代码的鲁棒性   | []() |
-| 16 - 代码的鲁棒性   | []() |
+| 15 - 代码的鲁棒性   | [反转链表](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/15-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) |
+| 16 - 代码的鲁棒性   | [合并两个排序链表](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/16-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md) |
 | 17 - 代码的鲁棒性   | []() |
 
 
