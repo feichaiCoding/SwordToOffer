@@ -34,8 +34,8 @@
 |20 - 举例让抽象具体化   | [包含min函数的栈](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/20-%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md) |
 |21 - 举例让抽象具体化   | [栈的压入和弹出序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/21-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%92%8C%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md) |
 |22 - 举例让抽象具体化   | [从上到下打印二叉树](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/22-%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91(%E5%8D%B3%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86).md) |
-|23 - 举例让抽象具体化   | []() |
-|24 - 举例让抽象具体化   | []() |
+|23 - 举例让抽象具体化   | [二叉搜索树的后序遍历序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/23-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md) |
+|24 - 举例让抽象具体化   | [二叉树中和为某一值的路径]() |
 |25 - 分解让复杂问题简单   | []() |
 
 > GitHub：https://github.com/feichaiCoding
