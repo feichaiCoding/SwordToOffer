@@ -41,7 +41,7 @@
 |27 - 时间效率   | [字符串的排列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/27-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) |
 |28 - 时间效率   | [数组中出现次数超过一半的数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/28-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md) |
 |29 - 时间效率   | [最小的k个数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/29-%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md) |
-|30 - 时间效率   | []() |
+|30 - 时间效率   | [连续子数组的最大和](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/30-%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md) |
 |31 - 时间效率   | []() |
 > GitHub：https://github.com/feichaiCoding
 
