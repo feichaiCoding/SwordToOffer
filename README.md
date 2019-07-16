@@ -45,9 +45,9 @@
 |31 - 时间效率   | [整数中1出现的次数（从1到n整数中1出现的次数)](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/31-%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0%EF%BC%88%E4%BB%8E1%E5%88%B0n%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0\).md) |
 |32 - 时间效率   | [把数组排成最小的数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/32-%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) |
 |33 - 时间空间效率的平衡   | [丑数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/33-%E4%B8%91%E6%95%B0.md) |
-|34 - 时间空间效率的平衡   | []() |
-|35 - 时间空间效率的平衡   | []() |
-|36 - 时间空间效率的平衡   | []() |
+|34 - 时间空间效率的平衡   | [第一个只出现一次的字符](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/34-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md) |
+|35 - 时间空间效率的平衡   | [数组中的逆序对](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/35-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md) |
+|36 - 时间空间效率的平衡   | [两个链表的第一个公共结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/36-%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E7%BB%93%E7%82%B9.md) |
 |37 - 知识迁移能力   | []() |
 |38 - 知识迁移能力   | []() |
 |39 - 知识迁移能力   | []() |
