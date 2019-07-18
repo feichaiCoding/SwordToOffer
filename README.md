@@ -57,8 +57,9 @@
 |43 - 知识迁移能力   | [左旋转字符串](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/43-%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 |44 - 知识迁移能力   | [翻转单词顺序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/44-%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.md) |
 |45 - 抽象建模能力   | []() |
-
-
+|46 - 抽象建模能力   | []() |
+|47 - 发散思维能力   | []() |
+|48 - 发散思维能力   | []() |
 
 > GitHub：https://github.com/feichaiCoding
 
