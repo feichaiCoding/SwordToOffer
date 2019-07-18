@@ -53,9 +53,9 @@
 |39 - 知识迁移能力   | [平衡二叉树](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/39-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
 |40 - 知识迁移能力   | [数组中只出现一次的数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/40-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) |
 |41 - 知识迁移能力   | [和为S的连续正数序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/41-%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md) |
-|42 - 知识迁移能力   | []() |
-|43 - 知识迁移能力   | []() |
-|44 - 知识迁移能力   | []() |
+|42 - 知识迁移能力   | [和为S的两个数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/42-%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md) |
+|43 - 知识迁移能力   | [左旋转字符串](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/43-%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
+|44 - 知识迁移能力   | [翻转单词顺序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/44-%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.md) |
 |45 - 抽象建模能力   | []() |
 
 
