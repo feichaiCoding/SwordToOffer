@@ -51,7 +51,12 @@
 |37 - 知识迁移能力   | [数字在排序数组中出现的次数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/37-%E6%95%B0%E5%AD%97%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md) |
 |38 - 知识迁移能力   | [二叉树的深度](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/38-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md) |
 |39 - 知识迁移能力   | [平衡二叉树](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/39-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
-|40 - 知识迁移能力   | []() |
+|40 - 知识迁移能力   | [数组中只出现一次的数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/40-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) |
+|41 - 知识迁移能力   | [和为S的连续正数序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/41-%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md) |
+|42 - 知识迁移能力   | []() |
+|43 - 知识迁移能力   | []() |
+|44 - 知识迁移能力   | []() |
+|45 - 抽象建模能力   | []() |
 
 
 
