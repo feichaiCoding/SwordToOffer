@@ -56,10 +56,10 @@
 |42 - 知识迁移能力   | [和为S的两个数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/42-%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md) |
 |43 - 知识迁移能力   | [左旋转字符串](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/43-%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 |44 - 知识迁移能力   | [翻转单词顺序列](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/44-%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.md) |
-|45 - 抽象建模能力   | []() |
-|46 - 抽象建模能力   | []() |
-|47 - 发散思维能力   | []() |
-|48 - 发散思维能力   | []() |
+|45 - 抽象建模能力   | [扑克牌顺子](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/45-%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.md) |
+|46 - 抽象建模能力   | [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/46-%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0).md) |
+|47 - 发散思维能力   | [求1+2+3+...+n](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/47-%E6%B1%821%2B2%2B3%2B...%2Bn.md) |
+|48 - 发散思维能力   | [不用加减乘除做加法](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/48-%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md) |
 
 > GitHub：https://github.com/feichaiCoding
 
