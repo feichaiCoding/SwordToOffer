@@ -63,9 +63,9 @@
 |49 - 综合   | [把字符串转换成整数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/49-%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.md) |
 |50 - 数组  | [数组中重复的数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/50-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md) |
 |51 - 数组   | [构建乘积数组](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/51-%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md) |
-|52 - 字符串   | []() |
-|53 - 字符串   | []() |
-|54 - 字符串   | []() |
+|52 - 字符串   | [正则表达式匹配](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/52-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md) |
+|53 - 字符串   | [表示数值的字符串](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/53-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
+|54 - 字符串   | [字符流中第一个不重复的字符](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/54-%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.md) |
 |55 - 链表  | []() |
 |56 - 链表   | []() |
 |57 - 树   | []() |
