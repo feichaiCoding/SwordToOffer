@@ -60,9 +60,9 @@
 |46 - 抽象建模能力   | [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/46-%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0).md) |
 |47 - 发散思维能力   | [求1+2+3+...+n](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/47-%E6%B1%821%2B2%2B3%2B...%2Bn.md) |
 |48 - 发散思维能力   | [不用加减乘除做加法](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/48-%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md) |
-|49 - 综合   | []() |
-|50 - 数组  | []() |
-|51 - 数组   | []() |
+|49 - 综合   | [把字符串转换成整数](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/49-%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.md) |
+|50 - 数组  | [数组中重复的数字](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/50-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md) |
+|51 - 数组   | [构建乘积数组](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/51-%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md) |
 |52 - 字符串   | []() |
 |53 - 字符串   | []() |
 |54 - 字符串   | []() |
