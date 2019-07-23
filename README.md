@@ -66,10 +66,10 @@
 |52 - 字符串   | [正则表达式匹配](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/52-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md) |
 |53 - 字符串   | [表示数值的字符串](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/53-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 |54 - 字符串   | [字符流中第一个不重复的字符](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/54-%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.md) |
-|55 - 链表  | []() |
-|56 - 链表   | []() |
-|57 - 树   | []() |
-|58 - 树   | []() |
+|55 - 链表  | [链表中环的入口结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/55-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9.md) |
+|56 - 链表   | [删除链表中重复的结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/56-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.md) |
+|57 - 树   | [二叉树的下一个结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/57-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9.md) |
+|58 - 树   | [对称的二叉树](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/58-%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
 |58 - 树   | []() |
 |60 - 树   | []() |
 |61 - 树   | []() |
