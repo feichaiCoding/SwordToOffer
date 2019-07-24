@@ -70,7 +70,7 @@
 |56 - 链表   | [删除链表中重复的结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/56-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.md) |
 |57 - 树   | [二叉树的下一个结点](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/57-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9.md) |
 |58 - 树   | [对称的二叉树](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/58-%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
-|58 - 树   | []() |
+|59 - 树   | [按之字形顺序打印二叉树](https://github.com/feichaiCoding/SwordToOffer/blob/master/CodeFile/59-%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
 |60 - 树   | []() |
 |61 - 树   | []() |
 |62 - 树   | []() |
